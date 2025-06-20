@@ -1,7 +1,6 @@
 # Task 01: Data Visualization – Bar Chart / Histogram
 
 This project is part of a data visualization task that involves using Python to create either a **bar chart** or a **histogram** to represent the distribution of a variable (categorical or continuous).
-
 ---
 
 ## 📊 Objective
